@@ -5,11 +5,11 @@ A fully functional web application that simulates AI-powered debates on any topi
 ## 🌐 Demo
 
 > Enter a debate topic and watch AI generate compelling opening statements, rebuttals, and conclusions from both sides — with like/dislike feedback and vote counts.
-
 ![Demo UI](pics/one.png)
 ![Demo UI](pics/two.png)
 ![Demo UI](pics/three.png)
 ![Demo UI](pics/four.png)
+
 
 ---
 
